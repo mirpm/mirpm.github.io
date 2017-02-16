@@ -1,0 +1,33 @@
+{
+    "locals": {
+        "url": "http://localhost:8080",
+        "name": "mirpm",
+        "title": "mirpm",
+        "owner": "Argarak",
+        "description": "Modular Interconnected Robotics Platform and Mesh-net",
+        "css": [
+            "/css/index.css"
+        ],
+        "js": [
+            "/js/angular.min.js"
+        ]
+    },
+    "plugins": [
+        "./plugins/paginator.coffee"
+    ],
+    "require": {
+        "moment": "moment",
+        "_": "underscore",
+        "typogr": "typogr"
+    },
+    "jade": {
+        "pretty": true
+    },
+    "markdown": {
+        "smartLists": true,
+        "smartypants": true
+    },
+    "paginator": {
+        "perPage": 3
+    }
+}

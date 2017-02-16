@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@angular/common": "^2.4.7",
+    "@angular/core": "^2.4.7",
+    "@angular/http": "^2.4.7",
+    "@angular/material": "^2.0.0-beta.1",
+    "@angular/platform-browser": "^2.4.7",
+    "moment": "2.3.x",
+    "rxjs": "^5.1.1",
+    "typogr": "0.5.x",
+    "underscore": "1.4.x",
+    "zone.js": "^0.7.7"
+  },
+  "private": "true"
+}
