@@ -6,10 +6,19 @@
         "owner": "Argarak",
         "description": "Modular Interconnected Robotics Platform and Mesh-net",
         "css": [
-            "/css/index.css"
+            "/app/main.css"
         ],
         "js": [
-            "/js/angular.min.js"
+            "/app/js/angular.min.js",
+            "/app/js/angular-animate.min.js",
+            "/app/js/angular-aria.min.js",
+            "/app/js/angular-sanitize.min.js",
+            "/app/js/angular-ui-router.min.js",
+            "/app/js/md-lightbox.js",
+            "/app/js/truncate.js",
+            "/app/js/angular-material.min.js",
+            "/app/js/angular-messages.min.js",
+            "/app/app.js"
         ]
     },
     "require": {
