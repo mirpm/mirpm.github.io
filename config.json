@@ -6,7 +6,8 @@
         "owner": "Argarak",
         "description": "Modular Interconnected Robotics Platform and Mesh-net",
         "css": [
-            "/app/main.css"
+            "/app/main.css",
+            "/app/angular-material.min.css"
         ],
         "js": [
             "/app/js/angular.min.js",
